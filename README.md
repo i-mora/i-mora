@@ -1,8 +1,18 @@
-## 🚧 Profile under construction 🚧
+## 🚧 **Profile under construction** 🚧
 _Our workers are busy fixing this as soon as possible, please be patient_
 
 <details close>
-<summary><strong>📫Contact me:</strong></summary>
+<summary>📖Languages:</summary>
+
+  1. Go
+  2. JS/TS
+  3. C++
+  0. Others: _COBOL, W/ASM, Ruby, PHP and avoiding Java if possible_
+   
+</details>
+
+<details close>
+<summary>📫Contact me:</summary>
 
   1. [Linkedin](https://www.linkedin.com/in/i-mora/) (recommended)
   2. [Email](mailto:al.mora@putlook.com) (not recommended)
